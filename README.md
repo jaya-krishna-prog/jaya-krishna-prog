@@ -1,17 +1,11 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaya%20Krishna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20Operations%20%26%20SRE%20Engineer%20%7C%20Multi-Cloud%20%7C%20AZ-104%20Certified&descAlignY=62&descSize=16)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%8C%A9%EF%B8%8F+Cloud+Operations+%26+SRE+Engineer;%E2%98%81%EF%B8%8F+AWS+%7C+Azure+AZ-104+%7C+GCP;%F0%9F%90%B3+Docker+%26+Kubernetes+Practitioner;%F0%9F%94%A5+30-40%25+Faster+Incident+Resolution)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=jaya-krishnaprog&label=Profile+Views&color=70A5FD&style=flat-square" alt="Profile Views" />
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jayakrishna10-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayakrishna10)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-jaya--krishnaprog-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jaya-krishnaprog)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-jaya91815%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaya91815@gmail.com)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Jaya%20Krishna&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Cloud%20Operations%20%26%20SRE%20Engineer%20%7C%20Multi-Cloud%20%7C%20AZ-104%20Certified&amp;descAlignY=62&amp;descSize=16" width="100%" alt="header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Cloud+Operations+%26+SRE+Engineer;AWS+%7C+Azure+AZ-104+%7C+GCP;Docker+%26+Kubernetes+Practitioner;30-40%25+Faster+Incident+Resolution" alt="Typing SVG" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=jaya-krishnaprog&amp;label=Profile+Views&amp;color=70A5FD&amp;style=flat-square" alt="Profile Views" />
+<a href="https://linkedin.com/in/jayakrishna10"><img src="https://img.shields.io/badge/LinkedIn-jayakrishna10-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/jaya-krishnaprog"><img src="https://img.shields.io/badge/GitHub-jaya--krishnaprog-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
+<a href="mailto:jaya91815@gmail.com"><img src="https://img.shields.io/badge/Email-jaya91815%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
 </div>
 
 ---
