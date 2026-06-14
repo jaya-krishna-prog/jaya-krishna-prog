@@ -99,9 +99,9 @@ print(me.motto())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaya-krishnaprog&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaya-krishna-prog&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaya-krishnaprog&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaya-krishna-prog&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8" />
 
 </div>
 
