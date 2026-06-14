@@ -17,8 +17,11 @@
 🙋 Personal
 
 👤 NameJaya Krishna
+
 📍 LocationBengaluru, India
+
 💼 RoleCloud Operations & SRE Engineer
+
 🏢 CompanyAccenture (Nov 2024 – Present)
 🏅 CertificationMicrosoft Azure AZ-104 ✅
 🌐 Open ToSRE / DevOps / Cloud roles
