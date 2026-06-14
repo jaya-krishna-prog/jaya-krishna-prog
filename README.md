@@ -15,26 +15,30 @@
   <tr>
     <td valign="top" width="50%">
 
-👤 NameJaya Krishna
+👤 Name: Jaya Krishna
 
-📍 LocationBengaluru, India
+📍 Location: Bengaluru, India
 
-💼 RoleCloud Operations & SRE Engineer
+💼 Role: Cloud Operations & SRE Engineer
 
-🏢 CompanyAccenture (Nov 2024 – Present)
+🏢 Company: Accenture (Nov 2024 – Present)
 
-🏅 CertificationMicrosoft Azure AZ-104 ✅
+🏅 Certification: Microsoft Azure AZ-104 ✅
 
-🌐 Open ToSRE / DevOps / Cloud roles
+🌐 Open To: SRE / DevOps / Cloud roles
 
 </td>
 <td valign="top" width="50%">
 📚 Currently Learning
 
 ☸️Advanced Kubernetes (CKA prep)
+
 💥Chaos Engineering
+
 💰FinOps & Cloud Cost Optimisation
+
 🐹Go for DevOps tooling
+
 🏗️Terraform advanced patterns
 
 </td>
