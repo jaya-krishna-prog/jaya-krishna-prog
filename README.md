@@ -110,28 +110,20 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaya-krishnaprog&theme=tokyonight-duo&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<img src="https://streak-stats.demolab.com?user=jaya-krishna-prog&amp;theme=tokyonight-duo&amp;background=0d1117&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
-
----
 
 ## 📊 Activity Graph
 
 <div align="center">
-
-[![Jaya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaya-krishnaprog&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaya-krishna-prog&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;hide_border=true&amp;area=true" alt="Activity Graph"/>
 </div>
-
----
 
 ## 🏆 Trophy Wall
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaya-krishnaprog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=jaya-krishna-prog&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;row=1" alt="Trophies"/>
+</div>
 
 </div>
 
