@@ -9,44 +9,33 @@
 </div>
 
 ---
+🧑‍💻 About Me
 
-## 🧑‍💻 About Me
+<table>
+  <tr>
+    <td valign="top" width="50%">
+🙋 Personal
 
-```python
-class JayaKrishna:
-    def __init__(self):
-        self.name            = "Jaya Krishna"
-        self.location        = "Bengaluru, India 🇮🇳"
-        self.role            = "Cloud Operations & SRE Engineer"
-        self.company         = "Accenture (Nov 2024 – Present)"
-        self.certification   = "Microsoft Azure Administrator AZ-104 ✅"
+👤 NameJaya Krishna📍 LocationBengaluru, India💼 RoleCloud Operations & SRE Engineer🏢 CompanyAccenture (Nov 2024 – Present)🏅 CertificationMicrosoft Azure AZ-104 ✅🌐 Open ToSRE / DevOps / Cloud roles
 
-        self.stack = [
-            "AWS (EC2, S3, IAM, CloudWatch)",
-            "Azure", "GCP",
-            "Docker", "Kubernetes",
-            "Jenkins", "GitHub Actions", "GitOps",
-            "Terraform", "Nginx", "Gunicorn",
-            "Prometheus", "Grafana", "ELK Stack",
-            "Python", "Bash",
-        ]
+</td>
+<td valign="top" width="50%">
+📚 Currently Learning
 
-        self.currently_learning = [
-            "Advanced Kubernetes (CKA prep)",
-            "Chaos Engineering",
-            "FinOps & Cloud Cost Optimisation",
-            "Go for DevOps tooling",
-        ]
+☸️Advanced Kubernetes (CKA prep)💥Chaos Engineering💰FinOps & Cloud Cost Optimisation🐹Go for DevOps tooling🏗️Terraform advanced patterns
 
-        self.fun_fact = "I reduced incident resolution time by 30–40% using structured log monitoring 🚀"
+</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
 
-    def motto(self):
-        return "Automate the boring. Monitor everything. Break nothing in prod. 🔥"
+🔥 "Automate the boring. Monitor everything. Break nothing in prod."
 
-me = JayaKrishna()
-print(me.motto())
-```
 
+
+</td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
