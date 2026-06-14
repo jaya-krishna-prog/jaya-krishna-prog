@@ -14,7 +14,6 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-🙋 Personal
 
 👤 NameJaya Krishna
 
@@ -23,7 +22,9 @@
 💼 RoleCloud Operations & SRE Engineer
 
 🏢 CompanyAccenture (Nov 2024 – Present)
+
 🏅 CertificationMicrosoft Azure AZ-104 ✅
+
 🌐 Open ToSRE / DevOps / Cloud roles
 
 </td>
