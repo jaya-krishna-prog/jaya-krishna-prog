@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=jaya-krishnaprog&amp;label=Profile+Views&amp;color=70A5FD&amp;style=flat-square" alt="Profile Views" />
 <a href="https://linkedin.com/in/jayakrishna10"><img src="https://img.shields.io/badge/LinkedIn-jayakrishna10-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/jaya-krishnaprog"><img src="https://img.shields.io/badge/GitHub-jaya--krishnaprog-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
-<a href="mailto:jayakrishnasivakumar@gmail.com"><img src="https://img.shields.io/badge/Email-jaya91815%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+<a href="mailto:jayakrishnasivakumar@gmail.com"><img src="https://img.shields.io/badge/Email-jayakrishnasivakumar%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
 </div>
 
 ---
